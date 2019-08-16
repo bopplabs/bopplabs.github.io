@@ -104,9 +104,9 @@ a:active {
   margin-top:2%; /*Adjust margin above boxes*/
 }
 #boxes1 .box{
-  float:left;
+  float:center;
   text-align: center;
-  width:30%;
+  width:15%;
   padding:2.5%; /*Adjust centering of boxes wrt center of page 1.56 for 3 boxes and 2.5 for 4 boxes*/
 }
 #boxes1 .box img{
