@@ -84,6 +84,21 @@ a:active {
   font-size:20px;
 }
 
+
+/* Landing Page Section: Boxes */
+#boxes2{
+  margin-top:2%; /*Adjust margin above boxes*/
+}
+#boxes2 .box{
+  float:left;
+  text-align: center;
+  width:15%;
+  padding:1%; /*Adjust centering of boxes wrt center of page 1.56 for 3 boxes and 2.5 for 4 boxes*/
+}
+#boxes2 .box img{
+  width:90px;
+}
+
 /* Landing Page Section: Boxes */
 #boxes1{
   margin-top:2%; /*Adjust margin above boxes*/
