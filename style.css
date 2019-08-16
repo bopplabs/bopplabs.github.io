@@ -107,7 +107,7 @@ a:active {
   float:left;
   text-align: center;
   width:15%;
-  padding:2.5%; /*Adjust centering of boxes wrt center of page 1.56 for 3 boxes and 2.5 for 4 boxes*/
+  padding:1.56%; /*Adjust centering of boxes wrt center of page 1.56 for 3 boxes and 2.5 for 4 boxes*/
 }
 #boxes1 .box img{
   width:90px;
